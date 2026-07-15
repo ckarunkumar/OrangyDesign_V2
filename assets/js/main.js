@@ -771,9 +771,17 @@ window.askForSummary = function(service) {
     cards.forEach(function (card) {
       if (category === 'all') {
         card.classList.remove('pf-card--hidden');
+        if (card.getAttribute('href') === 'works-noq.html') {
+          card.classList.add('pf-card--full');
+          card.classList.remove('pf-card--half');
+        }
       } else {
         var match = card.dataset.category === category;
         card.classList.toggle('pf-card--hidden', !match);
+        if (card.getAttribute('href') === 'works-noq.html') {
+          card.classList.remove('pf-card--full');
+          card.classList.add('pf-card--half');
+        }
       }
     });
   }
