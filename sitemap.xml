@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.orangy.design/</loc>
+  <lastmod>2026-07-10T04:56:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/studio.html</loc>
+  <lastmod>2026-07-10T04:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/services.html</loc>
+  <lastmod>2026-07-10T04:56:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/work.html</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/contact.html</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/index.html</loc>
+  <lastmod>2026-07-10T04:56:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-edutive.html</loc>
+  <lastmod>2026-07-10T04:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-acg.html</loc>
+  <lastmod>2026-07-10T04:56:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-jewel.html</loc>
+  <lastmod>2026-07-10T04:56:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-adhiban.html</loc>
+  <lastmod>2026-07-10T04:56:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-noq.html</loc>
+  <lastmod>2026-07-10T04:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-sdl.html</loc>
+  <lastmod>2026-07-10T04:56:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/healthcare.html</loc>
+  <lastmod>2026-07-10T04:56:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/work.html?filter=enterprise</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/work.html?filter=iot</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/work.html?filter=edtech</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/work.html?filter=retail</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/privacy-policy.html</loc>
+  <lastmod>2026-07-10T04:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/terms-of-use.html</loc>
+  <lastmod>2026-07-10T04:56:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/work.html?filter=all</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/work.html?filter=ai</loc>
+  <lastmod>2026-07-10T04:56:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-kinetiq.html</loc>
+  <lastmod>2026-07-10T04:56:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-seniorcare.html</loc>
+  <lastmod>2026-07-10T04:56:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-shreekumaran.html</loc>
+  <lastmod>2026-07-10T04:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-tacbot.html</loc>
+  <lastmod>2026-07-10T04:56:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-ivfone.html</loc>
+  <lastmod>2026-07-10T04:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.orangy.design/works-brennan.html</loc>
+  <lastmod>2026-07-10T04:56:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
