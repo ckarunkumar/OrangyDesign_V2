@@ -303,6 +303,10 @@ img[data-placeholder]:not([src=""]) {
   display: block;
 }
 
+.cs-solution__img--align-top {
+  object-position: top;
+}
+
 
 /* ===========================
    KEY FEATURES
